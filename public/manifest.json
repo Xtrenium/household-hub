@@ -1,0 +1,19 @@
+{
+  "name": "Household Hub — Brandon & Meg",
+  "short_name": "Household Hub",
+  "description": "Meals & Prep, Profitec Drive Espresso Bar, and Wine & Whiskey Cellar",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#020617",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
